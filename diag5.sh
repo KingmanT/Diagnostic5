@@ -7,5 +7,5 @@
 
 vmstat > ~/Desktop/Diagnostic5/"vmstat_info $(date).txt"
 git add .
-git commit .
+git commit -m "vmstat file" .
 git push
